@@ -33,11 +33,12 @@ class Factorial{
 
             factorialNumber *= i;
 
-             break;
-       }
         io:println("=========================================================/b");
         io:println("Factorail of ", randomNumber, " Is '", factorialNumber,"'");
         io:println("=========================================================/b");
+             break;
+       }
+        
 
         }
      
